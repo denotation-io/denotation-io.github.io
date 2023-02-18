@@ -3,10 +3,10 @@
 #  class: icon-github
 #  title: Code und mehr...
 
-- name: YouTube
-  url: https://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+#- name: YouTube
+#  url: https://www.youtube.com/PhlowMedia
+#  class: icon-youtube
+#  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
 - name: Twitter
   url: https://twitter.com/ah__cl

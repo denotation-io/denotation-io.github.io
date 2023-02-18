@@ -10,7 +10,7 @@ header:
 
 The mission of *Denotation IO* is to inform the general public about meaning, and the relation of meaning to Artificial Intelligence. 
 
-
+In case you think of meaning as 'the meaning of life' or 'the meaning of a word', think again. Meaning relates to a very specific faculty of the human mind, and there is a whole science dedicated to it. If you did not know... continue reading...
 
 
 ## Meaning and computers: a science
@@ -39,5 +39,5 @@ Engineering is not science.
 
 While engineers busy themselves with building new technologies out of the resources found in the natural world, scientists attempt to elucidate the structure of nature itself. Engineering tends to be more attractive than science: a fast car elegantly following the curves of a road makes more of an impression than the sticky black stuff coming out of an oil rig, let alone its chemical formula. And still, without nature, there would be no human artefact.
 
-Meaning on a Microchip is an invitation to look beyond the colourful Formula Ones of Artificial Intelligence and take a trip into their combustion engines, all the way down to the hydrocarbons that power their pistons. There, the reader will find the dry natural phenomenon without which no intelligence would emerge. It is called meaning and its formula has not yet been fully discovered.
+*Denotation IO* is an invitation to look beyond the colourful Formula Ones of Artificial Intelligence and take a trip into their combustion engines, all the way down to the hydrocarbons that power their pistons. There, the reader will find the dry natural phenomenon without which no intelligence would emerge. It is called meaning and its formula has not yet been fully discovered.
 

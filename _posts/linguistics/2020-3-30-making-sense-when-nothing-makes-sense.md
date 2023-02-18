@@ -13,9 +13,8 @@ image:
     
 ---
 
-**This is the transcript of a podcast episode recorded in the midst of the COVID-19 pandemic. [Listen to this podcast here](https://aurelieherbelot.net/podcast/)**
+**This is an old post written at the beginning of the Covid-19 pandemic. But the content is still relevant, so I reposted it here.**
 
-\[Hi, you're listening to a podcast on the science of meaning. My name's Aurelie. I am recording this first installment of the podcast from Northern Italy, one of the regions most affected by the COVID-19 pandemic right now. This episode is very much an attempt to look at the current world's situation from my perspective as a linguist, and to understand how what we know about the notion of meaning can help us *find meaning* in the current context. To reflect this, this episode is entitled "Making sense when nothing makes sense".\]
 
 In the last weeks, our world has become a rather surreal place. As I speak, the COVID-19 pandemic has already affected 800,000 people across the world, resulting in thousands of deaths, putting entire countries under lockdown, closing industries and national borders. In this time of extreme change and uncertainty, we are all struggling to adapt and to make sense of the current situation. But what is 'making sense'? Where do we find meaning? How do we know we've found it?
 

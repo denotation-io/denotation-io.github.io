@@ -11,7 +11,7 @@ widget1:
   title: "About meaning"
   url: '/about/'
   image: widget-1-302x182.jpg
-  text: 'There is a lot of talk about AI, these days. Not so much about meaning.'
+  text: 'There is a lot of talk about AI, these days. Not so much about meaning. And still, AI without meaning will not reach intelligence.'
 widget2:
   title: "AI in the Woods"
   url: '/aiinthewoods/'
@@ -21,7 +21,7 @@ widget3:
   title: "Blog"
   url: '/blog/'
   image: widget-3-303x182.jpg
-  text: 'The <em>Denotation</em> blog offers the latest content on meaning and Artificial Intelligence.'
+  text: 'The <em>Denotation</em> blog offers the latest content on meaning, linguistics and Artificial Intelligence.'
 #
 # Use the call for action to show a button on the frontpage
 #
