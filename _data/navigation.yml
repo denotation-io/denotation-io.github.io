@@ -1,0 +1,22 @@
+- title: Start
+  url: "/"
+  side: left
+
+- title: About
+  url: "/about/"
+  side: left
+
+- title: "AI in the woods"
+  url: "/aiinthewoods/"
+  side: left
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
