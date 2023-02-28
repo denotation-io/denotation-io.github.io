@@ -9,6 +9,6 @@ header:
 
 If you like the content on this site, please support us by subscribing to our newsletter! 
 
-For any other inquiry, including requests for public speaking, please write to<br> *contact AI denotation DOT io*.
+For any other inquiry, please write to<br> *contact AI denotation DOT io*.
 
 Denotation IO is maintained by [Aurelie Herbelot](https://aurelieherbelot.net/).
