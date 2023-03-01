@@ -10,6 +10,6 @@ header:
 
 Thank you for subscribing! Your email has been added to our list and you will receive our next newsletter.
 
-Remember that you can unsubscribe anytime by clicking on the relevant in any of our emails.
+Remember that you can unsubscribe anytime by clicking on the relevant link in any of our emails.
 
 [Back to the home page]({{site.url}})
