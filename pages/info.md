@@ -4,6 +4,7 @@ title: "About Denotation IO"
 subheadline: ""
 teaser: ""
 permalink: "/about/"
+show_meta: true
 header:
     image_fullwidth: header_unsplash_12.jpg
 ---

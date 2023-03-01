@@ -8,10 +8,10 @@
 #  class: icon-youtube
 #  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
-- name: Twitter
-  url: https://twitter.com/ah__cl
-  class: icon-twitter
-  title: "Research: Computational Approaches to Language and Meaning (CALM)"
+#- name: Twitter
+#  url: https://twitter.com/ah__cl
+#  class: icon-twitter
+#  title: "Research: Computational Approaches to Language and Meaning (CALM)"
 
 - name: Vimeo
   url: https://vimeo.com/user38873733
