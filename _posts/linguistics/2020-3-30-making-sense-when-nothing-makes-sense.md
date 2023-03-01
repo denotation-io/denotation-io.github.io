@@ -5,6 +5,11 @@ teaser: "This is a remake of an old post, to start off this blog. How do  differ
 breadcrumb: true
 categories:
     - linguistics
+tags:
+    - semantics
+    - linguistics
+    - living
+author: Aurelie Herbelot
 permalink: /blog/making-sense-when-nothing-makes-sense/
 header: no
 image:
