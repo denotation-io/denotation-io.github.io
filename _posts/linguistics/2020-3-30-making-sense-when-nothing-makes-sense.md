@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title:  "Making sense when nothing makes sense"
-teaser: "This is a remake of an old post, to start off this blog. How do  different scientific theories of meaning explain humans' thirst for 'making sense'? And what can we take away from them when trying to figure out our place in our world?"
+teaser: "Feeling overwhelmed by the world? The first entry of this blog is a remake of an old post, explaining how different scientific theories of meaning explain humans' thirst for 'making sense'."
 breadcrumb: true
 categories:
     - linguistics
@@ -15,6 +15,7 @@ header: no
 image:
     title: blog/pexels-yaroslav-danylchenko-4113084.jpg
     frontpage: blog/pexels-yaroslav-danylchenko-4113084.jpg
+show_meta: true
     
 ---
 
