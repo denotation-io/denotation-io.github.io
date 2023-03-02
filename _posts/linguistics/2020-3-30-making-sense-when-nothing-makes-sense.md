@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title:  "Making sense when nothing makes sense"
-teaser: "Feeling overwhelmed by the world? The first entry of this blog is a remake of an old post, explaining how different scientific theories of meaning explain humans' thirst for 'making sense'."
+teaser: "Feeling overwhelmed by the world? The first entry of this blog is a remake of an old post, relating how different scientific theories of meaning explain humans' thirst for 'making sense'."
 breadcrumb: true
 categories:
     - linguistics
@@ -21,15 +21,15 @@ show_meta: true
 
 The meaning of meaning is a question that has been keeping philosophers and linguists awake at night for a long, long time, and which keeps *me* awake at night. 
 
-I am a computational semanticist. Semantics is the study of meaning. My job, computational semantics, is to study meaning by producing computer simulations of all the different ways humans make sense of sentences, words, situations, what exists (the real world) and what does not exist (what I will call 'possible worlds').
+I am a computational semanticist. Semantics is the study of meaning. My job, computational semantics, is to study meaning by producing computer simulations of all the different ways humans make sense of sentences, words, situations, of what exists (the real world) and of what does not exist (what I will call 'possible worlds').
 
-It may come as a surprise to you that I don't know what it is that I study. I am supposed to dissect meaning, but I am not sure what meaning is. Still, thinking about it, that is perhaps no different from what happens in other disciplines. Physicists, for instance, debate about the nature of time. Biologists debate about the nature of life. We semanticists debate about the nature of meaning.
+It may come as a surprise to you that I don't know what it is that I study. I am supposed to dissect meaning, but I am not sure what meaning is. In my defense, that is perhaps no different from what happens in other disciplines. Physicists, for instance, debate about the nature of time. Biologists debate about the nature of life. We semanticists debate about the nature of meaning.
 
 There are of course various linguistic theories of meaning, which highlight different aspects of humans' thirst for 'making sense'. The scientific concepts that have been explored over the years can be helpful to all of us, right now, when thinking about our place in what is often a very confusing world.
 
 I should point out that those theories are somewhat at odds with each other in the scientific literature, and correspond to different 'camps' holding sometimes incompatible view points. There is much work to be done to reconcile them -- if they are reconciliable at all. However, my personal stance as a scientist is that each of them holds important insights about our relation to meaning, and that together, they convey a precious narrative about one of the most fundamental aspects of the mind.
 
-So in this post, we will discuss the notions of grammar and acceptability, and how we human beings, always strive to find meaning, even in what might appear senseless. We will inspect the notion of meaning with respect to possible worlds -- what is not here and now but that our minds can nevertheless conceptualise -- and we will see how those possible worlds naturally model the sheer heterogeneity and dynamicity of meaning, allowing us to go beyond what we thought we knew and believed. Finally, we will see that meaning is not something that things *have*, but something that we *do*, collectively. And I will conclude that especially in times of crisis, we must trust that ability to *do* meaning, our ability to MAKE sense.
+So in this post, we will discuss the notions of grammar and acceptability, and how we human beings, always strive to find meaning, even in what might appear senseless. We will inspect the notion of meaning with respect to possible worlds -- what is not here and now but that our minds can nevertheless conceptualise -- and we will see how those possible worlds naturally model the sheer heterogeneity and dynamicity of meaning, allowing us to go beyond what we thought we knew and believed. Finally, we will see that meaning is not something that things *have*, but something that we *do*, collectively. And I will conclude that especially in times of crisis, we must trust our ability to *do* meaning, our ability to MAKE sense.
 
 
 
@@ -51,7 +51,7 @@ So a better analysis of the phenomenon might be to say that some things are *har
 
 When the world around us seems strange, our human minds still desperately try to make sense of it. And it is hard and confusing because the situation seems to be breaking the very grammar of the world we thought we lived in. Remember the beginning of the Covid-19 pandemic, and the adaptations it required of us. Just like a singular subject wants to agree with a singular verb, isn't it that going to work goes with going out of your house, that greeting someone goes with shaking hands, hugging, kissing? We recognise the structure of the languages we speak because we share a grammar with others. We recognise the structure of the world because we share practices with others. So when ungrammaticality appears, when greeting someone becomes a physical distancing affair, we initially find it very hard to comprehend.
 
-So given all this, you may think that trying to make sense of things, however senseless they are, is an unfortunate human trait. Wouldn't it be easier to just throw in the towel and say 'this doesn't make sense'? Wait for better days? Is there really a point in trying to rescue a broken grammar? 
+A pessimistic assessment of this state of affairs would state that trying to make sense of things, however senseless they are, is an unfortunate human trait. Wouldn't it be easier to just throw in the towel and say 'this doesn't make sense' when things do not make sense? Wait for better days in times of crisis? Is there ever a point in trying to rescue a broken grammar? 
 
 
 
@@ -63,9 +63,9 @@ Logician Richard Montague took this insight and showed that the syntax of langua
 
 On the back of this theory, you may think that making sense is about truth. This is not so, at least not in the conventional sense of 'truth'. As linguist Barbara Partee reminds us, *"semantics itself is in the first instance concerned with truth-conditions (not actual truth, as is sometimes mistakenly asserted)"*. To me, this is a fundamental and perhaps overlooked aspect of formal semantics. Montague posits that meaning is related not to *the* world, but to an infinity of possible worlds, interpreted according to particular contexts of use. That is, my interpretation of *The cat sleeps* today at 9:30pm in Northern Italy may be different from yours, reading the same sentence tomorrow at 5am in Kenya. Truth *in the formal sense* -- the way we attach words to things in some world -- is relative.
 
-What falls out of this is that the notion of acceptability is much blurrier than grammarians would have it. With a logical notion of possible worlds, you can make any utterance true by picking the right world. In that way, even sleeping ideas get a meaning. I usually explain this in class by drawing on the board a set of cute sleeping animals and a set of ideas, represented by lightbulbs. Finding a world in which you have sleeping ideas is as simple as 'intersecting' the two sets. I draw sleepy eyes on some of the lightbulbs, and there you have it, here is a world with sleeping ideas. Of course, the world you have to pick to make this work may be very remote from reality, and so it may be hard to relate to or conceptualise. But the point is that formally, meaning has not disappeared. The mechanism that makes you attach words to things is still there, however ridiculous your possible worlds might be.
+What falls out of this is that the notion of acceptability is much blurrier than grammarians would have it. With a logical notion of possible worlds, you can make any utterance true by picking the right world. In that way, even sleeping ideas get a meaning. I usually explain this in class by drawing on the board a set of cute sleeping animals and a set of ideas, represented by lightbulbs. Finding a world in which you have sleeping ideas is as simple as 'intersecting' the two sets. I draw sleepy eyes on some of the lightbulbs, and there you have it, here is a world with sleeping ideas. Of course, the world you have to pick to make this work may be very remote from reality. It may be hard to relate to or conceptualise. But the point is that formally, meaning has not disappeared. The mechanism that makes you attach words to things is still there, however ridiculous your possible worlds might be.
 
-Relative truth may sound scary. Isn't that what we are trying to fight in our modern societies? Fake news, widespread lies, unfounded, pseudo-scientific, dangerous political theories? This is not what the formal notion of truth is about, though. There is of course a real world, and there are claims that are verifiable in the real world, and others which are not. But the real world is dynamic, and so are we. The world of yesterday is not the world of today. What we were doing yesterday is not what we are doing today. The fears and hopes we had yesterday (our possible worlds) are not the ones we have today. Utterances that would have made little sense yesterday make sense today. Many utterances that still do not make sense might just be looking for a world in which they can live. 
+Relative truth may sound scary. Isn't that what we are trying to fight in our modern societies? Fake news, widespread lies, unfounded, pseudo-scientific, dangerous political theories? This is not what the formal notion of truth is about, though. There is of course a real world, and there are claims that are verifiable in the real world, and others which are not. But the real world is dynamic, and so are we. The world of yesterday is not the world of today. What we were doing yesterday is not what we are doing today. The fears and hopes we had yesterday (our possible worlds) are not the ones we have today. Utterances that would have made little sense yesterday make sense today. Many utterances that *still do not make sense* might just be looking for a world in which they can live. 
 
 
 
@@ -93,15 +93,15 @@ For the record, Margaret Masterman, the founder of the Cambridge Language Resear
 
 ## What to take from this?
 
-Whenever the world is in crisis lies an opportunity to transform ourselves collectively. We get to observe our shared condition synchronously and we get the chance to ask: could we wake up from this better people? Better to ourselves, to others, and to the world around us? 
+Whenever the world is in crisis, some optimistic voices raise to tell us that we now have an opportunity to transform ourselves collectively. That by observing our shared condition synchronously, we get the chance to ask: could we wake up from this better people? Better to ourselves, to others, and to the world around us? 
 
-This sounds like a nice idea in principle, but there is nothing harder than inventing the future. Especially at a time when we might be fearful, sick or alone. So is the idea of collective transformation just an over-optimistic idea invented by a few individuals who are stronger than most of us are? 
+This sounds like a nice idea in principle, but there is nothing harder than inventing the future. Especially at a time when we might be fearful, sick or alone. So is the idea of collective transformation just an exaggerated idea invented by a few individuals who are (or feel) stronger than most of us are? 
 
 Perhaps not, if you look at things with the eyes of a linguist.
 
 Calling upon grammar, I remember that meaning sometimes breaks the rules, betraying acceptability, *literally* making it unacceptable to me.
 
-I also remember that no matter how unacceptable the proposition thrown at me by the current situation, I will want to make sense. Because I am human. And I know this will be hard because I naturally want to remain within the grammar that I know, the rules that I have been trained to comply with.
+I also remember that no matter how unacceptable the proposition thrown at me by the current situation, I will want to make sense. Because I am human. And despite my natural tendency to want to remain within the grammar that I know, the rules that I have been trained to comply with.
 
 Calling upon formal semantics, I remember that meaning is dynamic, that there is no absolute, eternal truth. That the real world I was measuring my thoughts against just yesterday is not anymore the real world. And that there is no reason for my possible worlds from yesterday -- including my expectations and dreams -- to be the possible worlds of today. *Everything* is always in a state of change.
 
