@@ -2,7 +2,7 @@
 layout: page
 title: "About Denotation IO"
 subheadline: ""
-teaser: "Meaning, and the way we understand it as societies, is perhaps the most important factor in designing AI systems that we actually want to live with. Understanding what it is, and how it fits into the field of machine learning, is vital to our ability to judge the real impact of new technologies."
+teaser: "Meaning, computational semantics and Artificial Intelligence."
 permalink: "/about/"
 show_meta: true
 header:
