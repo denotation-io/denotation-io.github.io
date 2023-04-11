@@ -10,6 +10,12 @@ header:
 
 What is AI, really? And what does it have to do with meaning? *AI in the Woods* has the answers in a series of videos which explain foundational concepts of Artificial Intelligence... in the forest.
 
+## Episode 4
+
+Did you know that your mind lives in many more dimensions than your body? If not, come and discover the space where concepts live.
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/791889077?h=785d19ed9c&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="AI in the woods - thinking in space"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 ## Episode 3
 
 A short introduction to the formal notion of meaning and possible worlds.
