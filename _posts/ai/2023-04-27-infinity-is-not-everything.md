@@ -100,8 +100,8 @@ Human artists and scientists are by nature deviant and abductive. It may possibl
 Remember those mutations? In the grand scheme of evolution, LLMs lack some fundamental survival skills.
 
 
-[^1] Yorick Wilks. 1973. Preference Semantics. Technical report, Stanford University. 
-[^2] I am borrowing these examples from [this nice paper](https://aclanthology.org/W11-1301.pdf) by Eva Maria Vecchi et al.
-[^3] Note that we normally don't know what neurons *actually* represent, and this is why neural nets are often referred to as 'black boxes'. But occasionally, using specific techniques, it is possible to make hypotheses about what a single neuron encodes, and to verify such hypotheses.
+[^1]: Yorick Wilks. 1973. Preference Semantics. Technical report, Stanford University. 
+[^2]: I am borrowing these examples from [this nice paper](https://aclanthology.org/W11-1301.pdf) by Eva Maria Vecchi et al.
+[^3]: Note that we normally don't know what neurons *actually* represent, and this is why neural nets are often referred to as 'black boxes'. But occasionally, using specific techniques, it is possible to make hypotheses about what a single neuron encodes, and to verify such hypotheses.
 
 
