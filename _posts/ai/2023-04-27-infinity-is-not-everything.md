@@ -11,7 +11,7 @@ header: no
 image:
     title: blog/john-cameron-2to6o3o4dEg-unsplash.jpg
     frontpage: blog/john-cameron-2to6o3o4dEg-unsplash.jpg
-    
+author: aurelie    
 ---
 
 Apparently, generative AI is going to revolutionise the way we create. According to the news, [AI artists](https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/) and [AI novelists](https://www.wired.com/story/k-allado-mcdowell-gpt-3-amor-cringe/) are already there. Not talking about AI scientists. And if you don't believe it, go and admire the intricate images produced by DALL-E or Stable Diffusion. See how the authors of that scientific-looking paper [credited Chat-GPT](https://futurism.com/scientific-paper-credits-chatgpt-ai-coauthor) for writing some of the material included in their article. *It is happening.*  

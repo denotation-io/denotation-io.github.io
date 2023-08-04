@@ -16,6 +16,7 @@ image:
     title: blog/pexels-yaroslav-danylchenko-4113084.jpg
     frontpage: blog/pexels-yaroslav-danylchenko-4113084.jpg
 show_meta: true
+author: aurelie
     
 ---
 

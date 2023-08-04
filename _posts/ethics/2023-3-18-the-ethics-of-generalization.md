@@ -12,6 +12,7 @@ header: no
 image:
     title: blog/pexels-frank-cone-3573555.jpg
     homepage: blog/pexels-frank-cone-3573555.jpg
+author: aurelie
 ---
 
 There are currently a lot of discussions on social media about the ethics of AI algorithms, with a specific focus on Large Neural Models (LNMs) such as [ChatGPT](https://openai.com/blog/chatgpt), [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [BARD](https://blog.google/technology/ai/bard-google-ai-search-updates/) and [DALL-E](https://openai.com/dall-e-2/), to name just a few. One particular debate focuses on the harmful biases displayed by Machine Learning (ML) systems, which are known to regularly engage in a range of blatantly sexist, racist and ableist behaviours. [^1]
