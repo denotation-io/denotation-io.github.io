@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title:  "Meaning and the world: the symbol grounding problem"
-teaser: "What is the meaning of the word 'red'? How do small children learn it? What about AI systems? In this new post, Casey Kennington explains how Natural languages are intrinsically linked to the real world, and how humans naturally ground symbols in things and properties they experience in their environment. Large Language Models, on the other hand, follow a very different path, prompting questions about their ability to acquire meaning."
+teaser: "What is the meaning of the word 'red'? How do small children learn it? What about AI systems? In this new post, Casey Kennington explains how natural languages are intrinsically linked to the real world, and how humans naturally ground symbols in things and properties they experience in their environment."
 breadcrumb: true
 categories:
     - linguistics
