@@ -9,13 +9,11 @@ tags:
     - semantics
     - linguistics
     - living
-author: Aurelie Herbelot
 permalink: /blog/making-sense-when-nothing-makes-sense/
 header: no
 image:
     title: blog/pexels-yaroslav-danylchenko-4113084.jpg
     frontpage: blog/pexels-yaroslav-danylchenko-4113084.jpg
-show_meta: true
 author: aurelie
     
 ---

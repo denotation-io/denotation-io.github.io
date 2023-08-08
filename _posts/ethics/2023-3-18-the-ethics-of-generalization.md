@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title:  "The ethics of generalization"
 teaser: "There are currently a lot of discussions about the impact of AI on society, with particular focus on the harmful biases learned by machine learning models. Flawed data is the most obvious culprit when it comes to the reproduction of prejudices, but the algorithms themselves are not innocent either. This blog entry explains the process of generalization in machines, and why it becomes particularly harmful when implemented in large, one-fits-all models."
 breadcrumb: true

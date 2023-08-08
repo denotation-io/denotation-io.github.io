@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title:  "Infinity is not everything"
 teaser: "Generative AI is apparently on its way to dethrone human artists and scientists. But is it truly creative? In this post, we will take a deep dive into the linguistic and logical processes behind creativity, and ask which of those neural networks actually implement."
 breadcrumb: true
